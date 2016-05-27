@@ -17,6 +17,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Collider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Colliders\BoxCollider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Collision.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\KeyboardDirectionalControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\MouseButtonControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\MouseDirectionalControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\MousePositionalControl.cs" />
@@ -27,7 +28,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Controls\DirectionalControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\GamePadButtonControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Controls\KeyboardButtonControl.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Controls\ThumbStickControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\GamePadDirectionalControl.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Coroutine.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)CoroutineWait.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameObject.cs" />
